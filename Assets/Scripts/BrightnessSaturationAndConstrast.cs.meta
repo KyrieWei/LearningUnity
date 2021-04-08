@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3addaf9245728864f9480b2f4614c61e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - briSatConShader: {fileID: 4800000, guid: 6d9ba7edad98b254f9e04907cef5e735, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

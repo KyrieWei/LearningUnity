@@ -1,0 +1,613 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.0f1c1 (1e553bf703d9) revision 1987899'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1139; Version 1909; 64bit' Language: 'zh' Physical Memory: 16323 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\software\Unity\2020.3.0f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/learning/UnityProject/BaseScene
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52550
+Successfully changed project path to: D:/learning/UnityProject/BaseScene
+D:/learning/UnityProject/BaseScene
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1c1 (1e553bf703d9)
+[Subsystems] Discovering subsystems at path D:/software/Unity/2020.3.0f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/learning/UnityProject/BaseScene/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   26.21.14.4587
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Initialize mono
+Mono path[0] = 'D:/software/Unity/2020.3.0f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/software/Unity/2020.3.0f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/software/Unity/2020.3.0f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/software/Unity/2020.3.0f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001004 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.426 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000495 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1142 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.8 MB.
+System memory in use after: 82.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 2.350200 ms (FindLiveObjects: 0.534300 ms CreateObjectMapping: 0.087200 ms MarkObjects: 1.588800 ms  DeleteObjects: 0.138500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Shader/ToonShading.shader
+  artifactKey: Guid(9510d95922cb64f408e633c9e087ba66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/ToonShading.shader using Guid(9510d95922cb64f408e633c9e087ba66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab459914f888654b94fb86bac993b5b') in 0.049613 seconds
+  Import took 0.060889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.339972 seconds.
+  path: Assets/Models/suzanne.obj
+  artifactKey: Guid(4f81b5d259dd8974db48a8340e511161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/suzanne.obj using Guid(4f81b5d259dd8974db48a8340e511161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0722bf6b9d6fd3cf95a3e8cfefeab9b2') in 0.194270 seconds
+  Import took 0.205121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8614.521136 seconds.
+  path: Assets/Shader/GodRay.shader
+  artifactKey: Guid(defb00e69bbb01f4693c9223d1d12fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/GodRay.shader using Guid(defb00e69bbb01f4693c9223d1d12fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa14b744392f6cffcb2cd38101104dc') in 0.060773 seconds
+  Import took 0.121331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7746.079799 seconds.
+  path: Assets/Shader/GodRay.shader
+  artifactKey: Guid(defb00e69bbb01f4693c9223d1d12fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/GodRay.shader using Guid(defb00e69bbb01f4693c9223d1d12fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f4ad38f1d9b5dcf2850524e97a81a5') in 0.022506 seconds
+  Import took 0.081142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.123368 seconds.
+  path: Assets/Materials/NewBehaviourScript.cs
+  artifactKey: Guid(45ac7095c8acc504eb86ca1dd8f54b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/NewBehaviourScript.cs using Guid(45ac7095c8acc504eb86ca1dd8f54b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a80859be53b47830992bf437b2113dd') in 0.017821 seconds
+  Import took 0.028285 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.155 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 3.258200 ms (FindLiveObjects: 0.233400 ms CreateObjectMapping: 0.056300 ms MarkObjects: 2.883400 ms  DeleteObjects: 0.084200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 1.719900 ms (FindLiveObjects: 0.259400 ms CreateObjectMapping: 0.064700 ms MarkObjects: 1.310900 ms  DeleteObjects: 0.083600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.622949 seconds.
+  path: Assets/Scripts/GodRayPostEffect.cs
+  artifactKey: Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GodRayPostEffect.cs using Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fa345f7e42d47768191948b5a9b3c7') in 0.026841 seconds
+  Import took 0.029850 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000562 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 1.627300 ms (FindLiveObjects: 0.138100 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.364100 ms  DeleteObjects: 0.088300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1424.530631 seconds.
+  path: Assets/Scripts/GodRayPostEffect.cs
+  artifactKey: Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GodRayPostEffect.cs using Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc4cf8216b7f79e152432302722b230') in 0.011177 seconds
+  Import took 0.013651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020036 seconds.
+  path: Assets/Scripts/GodRayPostEffect.cs
+  artifactKey: Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GodRayPostEffect.cs using Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc4cf8216b7f79e152432302722b230') in 0.013743 seconds
+  Import took 0.016326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 682.261215 seconds.
+  path: Assets/Scenes/scene_sakura0.unity
+  artifactKey: Guid(2868a8f361643b3489312a5a07b1d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene_sakura0.unity using Guid(2868a8f361643b3489312a5a07b1d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1e64d9b3ae1d60ff95710839881e33') in 0.059907 seconds
+  Import took 0.062233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.729754 seconds.
+  path: Assets/Scripts/PostEffectBase.cs
+  artifactKey: Guid(1c62668e4f852fd45a2a51041639c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PostEffectBase.cs using Guid(1c62668e4f852fd45a2a51041639c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8d142376fd0193a7f59a4d54fe2f82') in 0.033763 seconds
+  Import took 0.047646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 464.585977 seconds.
+  path: Assets/Scripts/PostEffectBase.cs
+  artifactKey: Guid(1c62668e4f852fd45a2a51041639c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PostEffectBase.cs using Guid(1c62668e4f852fd45a2a51041639c5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d04bcc8f44f5be67e644cd94b83eb3f') in 0.009723 seconds
+  Import took 0.013910 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000665 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 1.754700 ms (FindLiveObjects: 0.159100 ms CreateObjectMapping: 0.036500 ms MarkObjects: 1.409300 ms  DeleteObjects: 0.148800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.292223 seconds.
+  path: Assets/Materials/StandMat.mat
+  artifactKey: Guid(9ff9b334b9676c94ea75727555799182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/StandMat.mat using Guid(9ff9b334b9676c94ea75727555799182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9803d8c6ce3885c26473fc6538b33f6') in 0.649833 seconds
+  Import took 0.661199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Materials/ToonShadingMat.mat
+  artifactKey: Guid(ec5d01d5fb4a940459f021262b46f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonShadingMat.mat using Guid(ec5d01d5fb4a940459f021262b46f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b6b704453c532635689a413232f0ea') in 0.025719 seconds
+  Import took 0.027955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.723347 seconds.
+  path: Assets/Textures/Skybox
+  artifactKey: Guid(95994e375999db84da53f7e23d924392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox using Guid(95994e375999db84da53f7e23d924392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732bc616927b2c506866363eeecb9aa5') in 0.008248 seconds
+  Import took 0.024226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.145894 seconds.
+  path: Assets/Textures/Skybox/top.jpg
+  artifactKey: Guid(45fc4420216d3324685f05456f1f5510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/top.jpg using Guid(45fc4420216d3324685f05456f1f5510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bfc6f16e4c0c0d3ede0aa61bc14d13') in 0.061595 seconds
+  Import took 0.064195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.438197 seconds.
+  path: Assets/Textures/Skybox/back.jpg
+  artifactKey: Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/back.jpg using Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7209761dc0e36f8ebcf99c1a82981a') in 0.037536 seconds
+  Import took 0.046333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Textures/Skybox/front.jpg
+  artifactKey: Guid(ce099e57426f4a046b3d343c26c80e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/front.jpg using Guid(ce099e57426f4a046b3d343c26c80e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '667a2e3517a7dab67d05ddb65001fd11') in 0.028523 seconds
+  Import took 0.036212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Textures/Skybox/bottom.jpg
+  artifactKey: Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/bottom.jpg using Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ba09b4a43747fe7e9c2e4670b547ba') in 0.034540 seconds
+  Import took 0.051257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Textures/Skybox/left.jpg
+  artifactKey: Guid(7b2afeb3ab91e8e4a8dca22840db1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/left.jpg using Guid(7b2afeb3ab91e8e4a8dca22840db1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7426400b7d5cd60ed079be57dcfffaaa') in 0.022632 seconds
+  Import took 0.025266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Textures/Skybox/bottom.jpg
+  artifactKey: Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/bottom.jpg using Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ba09b4a43747fe7e9c2e4670b547ba') in 0.015604 seconds
+  Import took 0.017795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Textures/Skybox/back.jpg
+  artifactKey: Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/back.jpg using Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7209761dc0e36f8ebcf99c1a82981a') in 0.016904 seconds
+  Import took 0.019676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Textures/Skybox/right.jpg
+  artifactKey: Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/right.jpg using Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4f1c9d501e9c4d0b0978adfce89fae') in 0.024202 seconds
+  Import took 0.035461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003744 seconds.
+  path: Assets/Textures/Skybox/right.jpg
+  artifactKey: Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/right.jpg using Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4f1c9d501e9c4d0b0978adfce89fae') in 0.017321 seconds
+  Import took 0.019737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.127065 seconds.
+  path: Assets/Scripts/GodRayPostEffect.cs
+  artifactKey: Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GodRayPostEffect.cs using Guid(c1f557ae801c40e468325cbf992be798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ff37eec2cf0ae2a59ab2ea670a1bbd') in 0.005393 seconds
+  Import took 0.015619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443303 seconds.
+  path: Assets/Scenes/scene_bloom.unity
+  artifactKey: Guid(7592d33728234be46b047fe32fbee853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene_bloom.unity using Guid(7592d33728234be46b047fe32fbee853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9904db125a2af066e00e7d52364dfb') in 0.013709 seconds
+  Import took 0.015907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.846492 seconds.
+  path: Assets/Textures/Skybox/back.jpg
+  artifactKey: Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/back.jpg using Guid(176849c77589aff4db20450764ebe9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2679cfbfe5026ba4649bd6d1a8702c86') in 0.023352 seconds
+  Import took 0.025556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.960596 seconds.
+  path: Assets/Textures/Skybox/bottom.jpg
+  artifactKey: Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/bottom.jpg using Guid(341dd411d08ce4d4a906c22f09b741b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a618c7241c79cb53b056e8a6d83aa7') in 0.017567 seconds
+  Import took 0.020322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.720156 seconds.
+  path: Assets/Textures/Skybox/front.jpg
+  artifactKey: Guid(ce099e57426f4a046b3d343c26c80e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/front.jpg using Guid(ce099e57426f4a046b3d343c26c80e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939bbd1f52378b2b4975d0cbd5805cef') in 0.020727 seconds
+  Import took 0.025971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.634539 seconds.
+  path: Assets/Textures/Skybox/left.jpg
+  artifactKey: Guid(7b2afeb3ab91e8e4a8dca22840db1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/left.jpg using Guid(7b2afeb3ab91e8e4a8dca22840db1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accbffbde751dc529e1229fda903e8e3') in 0.021366 seconds
+  Import took 0.035333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.241518 seconds.
+  path: Assets/Textures/Skybox/right.jpg
+  artifactKey: Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/right.jpg using Guid(f6470cb0cc94bfa4ca4ac7553ff980ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bce8adbaec07e7c90ee5b2588f1822') in 0.024025 seconds
+  Import took 0.026159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.106837 seconds.
+  path: Assets/Textures/Skybox/top.jpg
+  artifactKey: Guid(45fc4420216d3324685f05456f1f5510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox/top.jpg using Guid(45fc4420216d3324685f05456f1f5510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23416bddbc9230d9449351f2b08e66ab') in 0.021582 seconds
+  Import took 0.023946 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 2.289500 ms (FindLiveObjects: 0.190300 ms CreateObjectMapping: 0.033400 ms MarkObjects: 1.936200 ms  DeleteObjects: 0.128400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 1.607900 ms (FindLiveObjects: 0.155600 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.310100 ms  DeleteObjects: 0.106700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 2.390900 ms (FindLiveObjects: 0.179100 ms CreateObjectMapping: 0.054600 ms MarkObjects: 1.604300 ms  DeleteObjects: 0.551500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1133.378849 seconds.
+  path: Assets/Scripts/FreeCamera.cs
+  artifactKey: Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FreeCamera.cs using Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a6af9e83f8107f9109f33cbc36bc6b') in 0.079670 seconds
+  Import took 0.094482 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 1.551200 ms (FindLiveObjects: 0.144300 ms CreateObjectMapping: 0.037900 ms MarkObjects: 1.273600 ms  DeleteObjects: 0.093600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000519 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.843 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1684.
+Total: 2.328100 ms (FindLiveObjects: 0.281600 ms CreateObjectMapping: 0.107900 ms MarkObjects: 1.833500 ms  DeleteObjects: 0.103700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.873820 seconds.
+  path: Assets/Scripts/FreeCamera.cs
+  artifactKey: Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FreeCamera.cs using Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612cc36d86a7bcd75d8625a28470429a') in 0.006862 seconds
+  Import took 0.008831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.245510 seconds.
+  path: Assets/Scripts/FreeCam.cs
+  artifactKey: Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FreeCam.cs using Guid(8e6d03317abee7a44ab8e6f4282c38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4ba66f843456d604d26fa51263fce6') in 0.024494 seconds
+  Import took 0.031428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1687.
+Total: 1.980100 ms (FindLiveObjects: 0.345700 ms CreateObjectMapping: 0.077700 ms MarkObjects: 1.349800 ms  DeleteObjects: 0.205500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Shader 'Unlit/ScrollingBackground': fallback shader 'VerterLit' not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1690.
+Total: 1.775500 ms (FindLiveObjects: 0.159600 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.457400 ms  DeleteObjects: 0.121300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
